@@ -39,6 +39,7 @@ public class Snap extends CardGame{
             System.out.println("WELCOME TO SNAP");
             System.out.println();
         }
+
         public void askToDealCard(int player){
             System.out.println();
             System.out.println("Player " + player + "'s turn");
